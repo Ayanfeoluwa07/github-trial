@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(messi.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img{
+    height: 30px;
+    width: 30px;
+    margin-left: 100px;
+    margin-right: 0%;
+    margin-top: 15px;
+    margin-bottom: 0%;
+    border-radius: 50%;
+
+}
+.title{
+    margin: -27px 0 0 140px;
+    color: blue;
+    font-weight: 700;
+}
+ul{
+    display: flex;
+    list-style: none;
+    float: right;
+    margin: -29px 24px 0 0;
+}
+li{
+    padding: 10px;
+    color: brown;
+}
+desc{
+    text-align: center;
+    font-size: 80px;
+    color: aqua;
+    margin: 80px 0 0 0;
+}
+button{
+    color: green;
+    background-color: black;
+    border: none;
+    margin: 0 0 30px 35rem;
+    height: 50px;
+    width: 200px;
+    border-radius: 3px;
+    font-size: 30px;
+}
+button:hover{
+    color: pink;
+    background-color: black;
+}
